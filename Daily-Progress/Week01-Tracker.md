@@ -18,7 +18,7 @@
 
 | Day | Date | Morning Session<br>(08:50-11:50) | Evening Session<br>(21:46-22:00) | Hours | GitHub Commit | Status |
 |-----|------|:--------------------------------:|:---------------------------------:|:-----:|:-------------:|:------:|
-| 1 | Aug 19 | ✅ Environment Setup (3h) | ⏳ Pending | 3/3 | ✅ Initial commit | ✅ |
+| 1 | Aug 19 | ✅ Environment Setup (3h) | ✅ Progress tracking & GitHub | 3/3 | ✅ 2 commits (setup + WARP.md) | ✅ |
 | 2 | Aug 20 | ⏳ Variables & Data Types | ⏳ Practice exercises | 0/3 | ⏳ | ⏳ |
 | 3 | Aug 21 | ⏳ Control Flow | ⏳ Logic problems | 0/3 | ⏳ | ⏳ |
 | 4 | Aug 22 | ⏳ Loops & Iteration | ⏳ Loop exercises | 0/3 | ⏳ | ⏳ |
@@ -28,7 +28,7 @@
 
 **Current Streak:** 1 day 🔥  
 **Total Hours This Week:** 3/21 hours  
-**Commits This Week:** 1/7 commits
+**Commits This Week:** 2/7 commits
 
 ---
 
