@@ -22,7 +22,7 @@
 **Practice Exercises:**
 ```python
 # Basic variable assignment
-name = "voldamort"
+name = "Odili"
 age = 20
 is_student = True
 height = 5.8
@@ -43,8 +43,8 @@ x, y, z = 1, 2, 3
 **1. Strings (str)**
 ```python
 # String creation and manipulation
-first_name = "voldamort"
-last_name = "MIS Engineer"
+first_name = "Odili"
+last_name = "Chinedum Christian"
 full_name = first_name + " " + last_name
 
 # String methods
@@ -87,7 +87,7 @@ needs_practice = not has_experience
 **Project: Personal Profile Generator**
 ```python
 # Student information system
-student_name = "voldamort"
+student_name = "Odili Chinedum Christian"
 student_age = 20
 major = "MIS Engineering"
 current_year = 2025

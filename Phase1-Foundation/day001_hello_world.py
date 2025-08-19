@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
 My First Python Program - Day 1 of MIS Engineering Journey
-Author: voldamort
+Author: Odili Chinedum Christian
 Date: August 19, 2025
 Goal: Start the 12-month transformation from beginner to professional
 """
 
 # My very first Python program!
 print("Hello, MIS Engineering World!")
-print("My name is voldamort")
+print("My name is Odili Chinedum Christian")
 print("Today I begin my 12-month journey to become a Software Engineer and Data Analyst!")
 print("-" * 60)
 
@@ -24,7 +24,7 @@ print(f"🎯 Total Learning Hours Planned: {total_learning_hours:.0f} hours")
 print(f"📈 That's {total_learning_hours/24:.1f} full days of learning!")
 
 # Personal information display
-name = "voldamort"
+name = "Odili Chinedum Christian"
 current_skill_level = "Complete Beginner"
 target_role = "MIS Engineer (Software + Data Analytics)"
 motivation_level = 5  # out of 5

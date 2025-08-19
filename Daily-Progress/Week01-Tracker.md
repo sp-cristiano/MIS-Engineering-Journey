@@ -124,7 +124,7 @@ When you miss the morning session:
 **Morning Focus:** Basic Python data types
 ```python
 # Today's exercises:
-name = "voldamort"
+name = "Odili"
 age = 20  # adjust as needed
 is_learning = True
 height = 5.8
