@@ -39,6 +39,7 @@ print("Favorite number: ", favorite_number)
 
 
 print("✓ Exercise 1.1 - Complete the variables above!")
+print("✅ Exercise 1.1 - Completed!")
 
 # Exercise 1.2: Math calculations
 print("\n1.2 Calculator Practice")
@@ -81,6 +82,7 @@ print(f"{num1} ** {num2} = {power_result}")  # Note the use of **
 print(f"{num1} % {num2} = {remainder_result}")
 
 print("✓ Exercise 1.2 - Complete the calculations above!")
+print("✅ Exercise 1.2 - Completed!")
 
 # Exercise 1.3: String manipulation
 print("\n1.3 String Fun")
@@ -95,7 +97,7 @@ second_word = "Programming"
 # total_length =
 
 # NOTE: These are the answers for the above operations
-# TODO: Later we can use f-string for concatenation.
+# TODO: Later we can use f-string for concatenation.e.g., combined = f"{first_word} {second_word}"
 combined = first_word + " " + second_word
 repeated = first_word * 3
 total_length = len(first_word) + len(second_word)
@@ -105,7 +107,13 @@ total_length = len(first_word) + len(second_word)
 # print("Repeated:", repeated)
 # print("Total characters:", total_length)
 
+# NOTE: These are the answers for the above lines
+print("Combined: ", combined)
+print("Repeated: ", repeated)
+print("Total characters: ", total_length)
+
 print("✓ Exercise 1.3 - Complete the string operations above!")
+print("✅ Exercise 1.3 - Completed!")
 
 # Exercise 1.4: Data type conversion
 print("\n1.4 Type Conversion Challenge")
@@ -120,13 +128,25 @@ boolean_string = "True"
 # converted_float =
 # converted_bool =
 
+# NOTE: These are the answers for the above conversions
+converted_int = int(string_number)
+converted_float = float(float_string)
+converted_bool = bool(boolean_string)
+
 # Uncomment these lines:
 # print("Original:", string_number, "Type:", type(string_number))
 # print("Converted:", converted_int, "Type:", type(converted_int))
 # print("Original:", float_string, "Type:", type(float_string))
 # print("Converted:", converted_float, "Type:", type(converted_float))
 
+# NOTE: These are the answers for the above lines
+print("Original: ", string_number, "Type: ", type(string_number))
+print("Converted: ", converted_int, "Type: ", type(converted_int))
+print("Original: ", float_string, "Type: ", type(float_string))
+print("Converted: ", converted_float, "Type: ", type(converted_float))
+
 print("✓ Exercise 1.4 - Complete the type conversions above!")
+print("✅ Exercise 1.4 - Completed!")
 
 # Exercise 1.5: Creative challenge
 print("\n1.5 Creative Challenge")
@@ -139,12 +159,20 @@ print("-" * 40)
 # 4. Print everything in a nice format
 
 # Your code here:
+name = "Odili Chinedum Christian"
+username = "Voldamort"
+learning_days = 1
+goal_message = f"My name is {name}. I've been learning Python for {learning_days} day! A step at a time is the secret of covering a thousand miles. - {name}({username})"
 
+print(goal_message)
 
 print("✓ Exercise 1.5 - Create your own program above!")
+print("✅ Exercise 1.5 - Completed!")
 
 print("\n" + "="*60)
 print("EXERCISES COMPLETE!")
 print("Run this file with: python3 exercise1_basics.py")
 print("Uncomment the TODO sections as you complete them!")
+print("Have fun learning Python, Odili!")
+print("✅ All exercises completed!")
 print("="*60)

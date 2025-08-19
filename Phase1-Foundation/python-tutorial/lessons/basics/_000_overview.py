@@ -1,12 +1,38 @@
 #!/usr/bin/env python3
-"""
-My First Python Program - Day 1 of MIS Engineering Journey
+'''
+Overview of Python Basics
+Day 001 - Lecture 0: Overview
+MIS Engineering Journey - Phase 1 Foundation
+Learning Source: Jenny's Lectures
+
+This is the first Python script as part of the 12-month MIS Engineering Journey.
+Created while following Jenny's Python tutorial on Day 1.
+
 Author: Odili Chinedum Christian
 Date: August 19, 2025
-Goal: Start the 12-month transformation from beginner to professional
-"""
 
-# My very first Python program!
+'''
+
+import datetime
+print("Welcome to Python, Odili!")
+
+# You can print different types of data
+print("This is text")           # String (text)
+print(42)                       # Number (integer)
+print(3.14)                     # Number (decimal/float)
+print(True)                     # Boolean (True/False)
+
+# You can print multiple things at once
+print("Hello", "Odili", "from", "Voldamort")
+
+# Print with different separators
+print("Python", "is", "awesome", sep="-")
+print("Learning", "Python", "step", "by", "step", sep=" -> ")
+
+# Special characters in strings
+print("This is line 1\nThis is line 2")  # \n creates a new line
+print("Tab\tspace\there")                 # \t creates a tab space
+
 print("Hello, MIS Engineering World!")
 print("My name is Odili Chinedum Christian")
 print("Today I begin my 12-month journey to become a Software Engineer and Data Analyst!")
@@ -39,7 +65,7 @@ print(f"Motivation: {'🔥' * motivation_level} ({motivation_level}/5)")
 # Goal breakdown by phase
 phases = {
     "Phase 1 (Months 1-3)": "Foundation - Python, Git, Web, SQL",
-    "Phase 2 (Months 4-6)": "Core Skills - OOP, Flask, Data Analytics", 
+    "Phase 2 (Months 4-6)": "Core Skills - OOP, Flask, Data Analytics",
     "Phase 3 (Months 7-9)": "Integration - Full-stack, Cloud, ML"
 }
 
@@ -61,7 +87,6 @@ print("✅ Day 1 Complete - The journey begins!")
 print("🎯 Next: Variables, data types, and basic operations")
 
 # Calculate days until target completion
-import datetime
 start_date = datetime.date(2025, 8, 19)
 end_date = datetime.date(2026, 8, 19)
 days_remaining = (end_date - start_date).days
