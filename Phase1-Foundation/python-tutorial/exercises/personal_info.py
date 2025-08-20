@@ -2,7 +2,7 @@
 '''
 Day 002 - Exercise 2: Personal Information
 MIS Engineering Journey - Phase 1 Foundation
-Learning Source: Jenny's Lectures
+Learning Source: Jenny's Lectures and https://www.w3schools.com
 
 This is the first Python script as part of the 12-month MIS Engineering Journey.
 Created while following Jenny's Python tutorial on Day 2.
@@ -58,4 +58,3 @@ print(type(gpa))
 
 can_graduate = gpa >= 4.5
 print(f"Eligible for graduation: {can_graduated}")
-

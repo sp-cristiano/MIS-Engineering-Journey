@@ -28,7 +28,7 @@
 
 **Goal: 50+ Python scripts in Phase 1**
 
-**Current count: 8/50 (16% complete - EXCEPTIONAL Day 1 progress!)** 🚀
+**Current count: 10/50 (20% complete - EXCEPTIONAL Day 2 progress!)** 🚀
 
 - [x] **Basics: 7/10 scripts** ✅ AHEAD OF SCHEDULE!
   - ✅ Journey overview with advanced calculations
@@ -38,12 +38,13 @@
   - ✅ User input handling
   - ✅ Basic operations mastery
   - ✅ Data types complete coverage
-  
-- [x] **Exercises: 1/5 planned** ✅
+
+- [x] **Exercises: 2/5 planned** ✅
   - ✅ Complete basics exercise with 5 sections
-  
+  - ✅ Build a personal information display program
+
 - [ ] **Control Flow: 0/10 scripts** (Next focus)
-- [ ] **Functions: 0/8 scripts** 
+- [ ] **Functions: 0/8 scripts**
 - [ ] **File Handling: 0/6 scripts**
 - [ ] **Modules: 0/4 scripts**
 - [ ] **Projects: 0/2 projects**
@@ -53,6 +54,7 @@
 - Jenny's Lectures (Primary)
 - Python.org documentation
 - Real Python tutorials
+- www.w3schools.com
 - Practice exercises from Complete Learning Guide
 
 ## Quick Commands

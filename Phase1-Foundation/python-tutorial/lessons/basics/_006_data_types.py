@@ -2,7 +2,7 @@
 '''
 Day 001 - Lecture 6: Data Types
 MIS Engineering Journey - Phase 1 Foundation
-Learning Source: Jenny's Lectures
+Learning Source: Jenny's Lectures and www.w3schools.com
 
 This is my sixth Python script as part of the 12-month MIS Engineering Journey.
 Created while following Jenny's Python tutorial on Day 1.
@@ -15,6 +15,24 @@ Date: August 19, 2025
 # =============================================================================
 # DATA TYPES - different kinds of data Python can work with
 # =============================================================================
+
+'''
+Built-in Data Types
+
+In programming, data type is an important concept.
+
+Variables can store data of different types, and different types can do different things.
+
+Python has the following data types built-in by default, in these categories:
+Text Type: 	str
+Numeric Types: 	int, float, complex
+Sequence Types: 	list, tuple, range
+Mapping Type: 	dict
+Set Types: 	set, frozenset
+Boolean Type: 	bool
+Binary Types: 	bytes, bytearray, memoryview
+None Type: 	NoneType
+'''
 
 # Numbers
 integer_number = 42
