@@ -5,7 +5,7 @@ MIS Engineering Journey - Phase 1 Foundation
 Learning Source: Jenny's Lectures and www.w3schools.com
 
 This is my sixth Python script as part of the 12-month MIS Engineering Journey.
-Created while following Jenny's Python tutorial on Day 1.
+Created while following Jenny's Python tutorial and www.w3schools.com on Day 6.
 
 Author: Odili Chinedum Christian
 Date: August 19, 2025
